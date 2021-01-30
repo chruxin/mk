@@ -57,7 +57,7 @@
       "KC_RGHT"
     ],
     [
-      "KC_TAB",
+      "KC_ESC",
       "KC_Q",
       "KC_W",
       "KC_F",
@@ -69,7 +69,7 @@
       "KC_Y",
       "KC_SCLN",
       "KC_BSPC",
-      "KC_ESC",
+      "KC_TAB",
       "KC_A",
       "KC_R",
       "KC_S",
@@ -107,7 +107,7 @@
       "KC_RGHT"
     ],
     [
-      "KC_TAB",
+      "KC_ESC",
       "KC_QUOT",
       "KC_COMM",
       "KC_DOT",
@@ -119,7 +119,7 @@
       "KC_R",
       "KC_L",
       "KC_BSPC",
-      "KC_ESC",
+      "KC_TAB",
       "KC_A",
       "KC_O",
       "KC_E",
@@ -157,7 +157,7 @@
       "KC_RGHT"
     ],
     [
-      "KC_TILD",
+      "KC_GRV",
       "KC_EXLM",
       "KC_AT",
       "KC_HASH",
@@ -207,7 +207,7 @@
       "KC_MPLY"
     ],
     [
-      "KC_GRV",
+      "KC_TILD",
       "KC_1",
       "KC_2",
       "KC_3",
